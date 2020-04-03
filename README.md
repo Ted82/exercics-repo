@@ -1,2 +1,0 @@
-# exercics-repo
-SoftUniProject
